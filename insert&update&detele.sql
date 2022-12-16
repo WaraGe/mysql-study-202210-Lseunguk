@@ -22,7 +22,7 @@ values
 insert into student_study_mst(name, id, age) values('김규민', 2, 26); 
 insert into student_study_mst(name, id) values('순동', 3); 
 insert into student_study_mst values(4, '김혜진', 26); 
-insert into student_study_mst(name, id) values('박경호', 1); 
+insert into student_study_mst(name, id) values('박경호', 9); 
 
 
 #여러개의 데이터 한번에 넣는 방법

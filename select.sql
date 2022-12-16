@@ -9,7 +9,7 @@ from
  student_study_mst 
 where
 		`name` like '%민'
-or `name` like '김%'; 
+or  `name` like '김%'; 
 
 
 select
